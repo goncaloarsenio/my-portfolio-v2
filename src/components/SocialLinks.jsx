@@ -28,7 +28,7 @@ const SocialLinks = () => {
       id: 3,
       child: (
         <>
-          Mail <HiOutlineMail size={30} />
+          Email <HiOutlineMail size={30} />
         </>
       ),
       href: "mailto:goncaloarsenio92@gmail.com",

@@ -16,7 +16,7 @@ const Home = () => {
             {" "}
             I'am a full Stack Developer
           </h2>
-          <p className="text-gray-300 py-4 max-w-md">
+          <p className="text-gray-300 py-4 max-w-md text-3xl">
             {" "}
             Open to work.{" "}
           </p>
